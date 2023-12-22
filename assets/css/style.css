@@ -69,7 +69,7 @@ a {
   display: flex;
 }
 .header--action__signin,
-.header .nav__item--link {
+.nav__item--link {
   padding: 10px 21px;
   color: #c9d2da;
   text-align: center;
@@ -614,7 +614,7 @@ a {
   font-weight: 600;
   line-height: 1.857; /* 185.714% */
 }
-.copyright{
+.copyright {
   display: flex;
   flex-direction: column;
   align-items: center;
